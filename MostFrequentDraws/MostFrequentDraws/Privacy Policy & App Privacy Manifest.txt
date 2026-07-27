@@ -1,0 +1,7 @@
+1. Privacy Policy Text
+You must link a Privacy Policy URL in App Store Connect. Host this template on GitHub Pages or a free website builder:
+Privacy Policy for Most Frequent Draws > Last updated: July 2026
+Most Frequent Draws ("the App") does not collect, transmit, store, or share any personal data, location data, or device identifiers.
+•	Data Storage: All saved number combinations and user preferences are stored strictly on your local device.
+•	Third-Party Services: The App fetches public draw data via free public API endpoints. No user identification data is sent during API requests.
+•	Contact: For privacy inquiries, email mop_pit.7q@icloud.com.
